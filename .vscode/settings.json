@@ -1,0 +1,6 @@
+{
+  "files.associations": {
+    "civetweb.h": "c",
+    "cjson.h": "c"
+  }
+}
